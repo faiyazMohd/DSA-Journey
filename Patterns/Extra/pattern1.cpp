@@ -21,10 +21,10 @@ int main()
     // pattern4(n);
     // pattern5(n);
     // pattern6(n);
-    pattern7(4);// not working
+    // pattern7(4);// not working
     // pattern8(n);
     // pattern9(n);
-    // pattern10(n);
+    pattern10(n);
     return 0;
 }
 void pattern1(int n)
@@ -33,7 +33,7 @@ void pattern1(int n)
     {
         for (int col = 1; col <= n - row + 1; col++)
         {
-            cout << "*";
+            cout << "*"; 
         }
         cout << endl;
     }
