@@ -1,6 +1,5 @@
-uplicates(sortedArr,sortedArrLength);
-
-    for (int i = 0; i < sortedArrLength; i++)
-    {
-        cout << sortedArr[i] << " " ;
-    }
+while (i <= n1)
+    // {
+    //     /* code */
+    // }
+    
